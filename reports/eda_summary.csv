@@ -1,0 +1,106 @@
+section,metric,group,value,unit
+descriptive,raw_audit_rows,audit,189500.0,rows
+descriptive,observed_hourly_rows,observed,93212.0,rows
+descriptive,observed_transaction_total,observed,182520.0,tap-in transactions
+descriptive,panel_rows,panel,300024.0,rows
+descriptive,panel_observed_hours,panel,93212.0,hours
+descriptive,panel_missing_hours,panel,206812.0,hours
+descriptive,model_ready_rows,model_ready,11194.0,rows
+top_10_corridors,total_recorded_transactions,12H,1253.0,tap-in transactions
+top_10_corridors,total_recorded_transactions,11,1241.0,tap-in transactions
+top_10_corridors,total_recorded_transactions,13,1214.0,tap-in transactions
+top_10_corridors,total_recorded_transactions,JAK.39,1161.0,tap-in transactions
+top_10_corridors,total_recorded_transactions,5,1148.0,tap-in transactions
+top_10_corridors,total_recorded_transactions,7,1148.0,tap-in transactions
+top_10_corridors,total_recorded_transactions,S31,1147.0,tap-in transactions
+top_10_corridors,total_recorded_transactions,2B,1133.0,tap-in transactions
+top_10_corridors,total_recorded_transactions,11C,1128.0,tap-in transactions
+top_10_corridors,total_recorded_transactions,JAK.14,1118.0,tap-in transactions
+hourly_distribution,total_recorded_transactions,hour_05,16206.0,tap-in transactions
+hourly_distribution,total_recorded_transactions,hour_06,28023.0,tap-in transactions
+hourly_distribution,total_recorded_transactions,hour_07,13677.0,tap-in transactions
+hourly_distribution,total_recorded_transactions,hour_08,13808.0,tap-in transactions
+hourly_distribution,total_recorded_transactions,hour_09,13497.0,tap-in transactions
+hourly_distribution,total_recorded_transactions,hour_10,1638.0,tap-in transactions
+hourly_distribution,total_recorded_transactions,hour_11,1614.0,tap-in transactions
+hourly_distribution,total_recorded_transactions,hour_12,1669.0,tap-in transactions
+hourly_distribution,total_recorded_transactions,hour_13,1664.0,tap-in transactions
+hourly_distribution,total_recorded_transactions,hour_14,882.0,tap-in transactions
+hourly_distribution,total_recorded_transactions,hour_15,2005.0,tap-in transactions
+hourly_distribution,total_recorded_transactions,hour_16,16527.0,tap-in transactions
+hourly_distribution,total_recorded_transactions,hour_17,26128.0,tap-in transactions
+hourly_distribution,total_recorded_transactions,hour_18,11509.0,tap-in transactions
+hourly_distribution,total_recorded_transactions,hour_19,11642.0,tap-in transactions
+hourly_distribution,total_recorded_transactions,hour_20,11508.0,tap-in transactions
+hourly_distribution,total_recorded_transactions,hour_21,10523.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-01,48.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-02,57.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-03,7734.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-04,7764.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-05,7742.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-06,7756.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-07,7756.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-08,1755.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-09,1691.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-10,7755.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-11,7727.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-12,7743.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-13,9712.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-14,9689.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-15,3693.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-16,3641.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-17,9692.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-18,9657.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-19,9704.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-20,7748.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-21,7774.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-22,1679.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-23,1780.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-24,7751.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-25,7765.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-26,7730.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-27,7750.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-28,7751.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-29,1779.0,tap-in transactions
+daily_trend,total_recorded_transactions,2023-04-30,1697.0,tap-in transactions
+weekday_weekend,total_recorded_transactions,weekday,164700.0,tap-in transactions
+weekday_weekend,mean_per_observed_hourly_row,weekday,2.1097803112790623,tap-in transactions
+weekday_weekend,total_recorded_transactions,weekend,17820.0,tap-in transactions
+weekday_weekend,mean_per_observed_hourly_row,weekend,1.1764705882352942,tap-in transactions
+direction_comparison,total_recorded_transactions,0.0,91285.0,tap-in transactions
+direction_comparison,mean_per_observed_hourly_row,0.0,1.958821509806446,tap-in transactions
+direction_comparison,total_recorded_transactions,1.0,91235.0,tap-in transactions
+direction_comparison,mean_per_observed_hourly_row,1.0,1.9574125724093543,tap-in transactions
+model_ready_coverage,model_ready_rows,direction_0.0,5628.0,rows
+model_ready_coverage,model_ready_rows,direction_1.0,5566.0,rows
+model_ready_coverage,corridors_below_10_rows,all_corridors,6.0,corridors
+model_ready_coverage,corridors_below_20_rows,all_corridors,20.0,corridors
+model_ready_coverage,corridors_below_50_rows,all_corridors,115.0,corridors
+limited_model_ready_coverage,model_ready_rows,M13,1.0,rows
+limited_model_ready_coverage,model_ready_rows,11K,4.0,rows
+limited_model_ready_coverage,model_ready_rows,6P,4.0,rows
+limited_model_ready_coverage,model_ready_rows,12F,4.0,rows
+limited_model_ready_coverage,model_ready_rows,M4,7.0,rows
+limited_model_ready_coverage,model_ready_rows,JAK.80,8.0,rows
+limited_model_ready_coverage,model_ready_rows,2A,11.0,rows
+limited_model_ready_coverage,model_ready_rows,1Q,11.0,rows
+limited_model_ready_coverage,model_ready_rows,D11,11.0,rows
+limited_model_ready_coverage,model_ready_rows,M7B,12.0,rows
+limited_model_ready_coverage,model_ready_rows,JAK.08,12.0,rows
+limited_model_ready_coverage,model_ready_rows,JAK.28,12.0,rows
+limited_model_ready_coverage,model_ready_rows,9H,13.0,rows
+limited_model_ready_coverage,model_ready_rows,JAK.73,13.0,rows
+limited_model_ready_coverage,model_ready_rows,1T,14.0,rows
+limited_model_ready_coverage,model_ready_rows,4F,15.0,rows
+limited_model_ready_coverage,model_ready_rows,JAK.04,16.0,rows
+limited_model_ready_coverage,model_ready_rows,S21,16.0,rows
+limited_model_ready_coverage,model_ready_rows,JAK.49,17.0,rows
+limited_model_ready_coverage,model_ready_rows,JAK.29,19.0,rows
+passenger_count_distribution,observed_count_rows_mean,hourly_observed,1.9581169806462688,tap-in transactions
+passenger_count_distribution,observed_count_rows_median,hourly_observed,2.0,tap-in transactions
+passenger_count_distribution,observed_count_rows_min,hourly_observed,1.0,tap-in transactions
+passenger_count_distribution,observed_count_rows_max,hourly_observed,11.0,tap-in transactions
+passenger_count_distribution,model_ready_mean,model_ready,1.8617116312310167,tap-in transactions
+passenger_count_distribution,model_ready_median,model_ready,2.0,tap-in transactions
+passenger_count_distribution,model_ready_min,model_ready,1.0,tap-in transactions
+passenger_count_distribution,model_ready_max,model_ready,8.0,tap-in transactions

@@ -1,0 +1,14 @@
+metric,value
+raw_rows,189500
+raw_columns,22
+duplicate_full_rows,0
+duplicate_transID,0
+transactions_with_corridorID,182520
+transactions_missing_corridorID,6980
+unique_corridorID,221
+unique_dates,30
+tapInTime_parse_failures,0
+missing_tapOutTime,6720
+missing_tapInStops,7241
+missing_tapOutStops,12369
+aggregated_nonzero_groups,93212

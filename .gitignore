@@ -1,0 +1,28 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Temporary and operating-system files
+*.tmp
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large model artifacts
+models/*.pkl
+models/*.joblib
+models/*.onnx
+models/*.pt
+models/*.pth
+models/*.bin
+
+# Large datasets and generated processed data
+# Raw data is intentionally excluded from public Git history.
+data/raw/*.csv
+data/processed/*.csv
